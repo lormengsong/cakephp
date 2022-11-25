@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Battambang:wght@100;300;400;700;900&family=Exo+2:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Exo:ital,wght@0,400;1,500&family=Koulen&family=Roboto+Slab&family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,300;1,400&display=swap');
+*{
+    font-family: 'Battambang';
+}
+:root{
+    --header-color: #726060;
+    --header-top-color:#200E0E;
+    --white-color: #fff;
+}
+header{
+    background-color: var(--header-color);
+}
+.header-top{
+    background-color: var(--header-top-color);
+}
+a ,a:hover{
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+header .header-top .container{
+    display: flex;
+    justify-content: space-between;
+}
+header .header-top .menu-top-left ul li{
+    float: left;
+    border-right: 1px solid var(--white-color);
+}
+header .header-top .menu-top-left ul li a{
+    color: var(--white-color);
+    display: block;
+    padding: 5px;  
+    font-size: 12px;
+    font-weight: bold;
+    
+}
+header .header-top .menu-top-left ul li:last-child{
+    border-right: none;
+}
+header .header-top .menu-top-right ul li{
+    float: left;
+   
+}
+header .header-top .menu-top-right ul li  a{
+    color: var(--white-color);
+    display: block;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 12px;
+   
+
+}
+header .header-center .title ,.logo{
+    display: flex;
+    align-items: center;
+}
