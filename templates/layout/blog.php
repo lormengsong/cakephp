@@ -376,13 +376,13 @@
                 <div class="social">
                     <a href="#">
                         
-                        <img src="facebook-logo.png" alt="">
+                        <img src="https://via.placeholder.com/35x35" alt="" style="border-radius: 50%;">
                     </a>
                     <a href="#">
-                        <img src="instagram.png" alt="">
+                        <img src="https://via.placeholder.com/35x35" alt="" style="border-radius: 50%;">
                     </a>
                     <a href="#">
-                        <img src="youtube.png" alt="">
+                        <img src="https://via.placeholder.com/35x35" alt="" style="border-radius: 50%;">
                     </a>
                 </div>
                 <div class="search">
@@ -779,16 +779,16 @@
                     </div>
                     <div class="follow-us">
                         <a href="">
-                            <img src="facebook-logo.png" alt="">
+                            <img src="https://via.placeholder.com/35x35" alt="">
                         </a>
                         <a href="">
-                            <img src="instagram.png" alt="">
+                            <img src="https://via.placeholder.com/35x35" alt="">
                         </a>
                         <a href="">
-                            <img src="telegram.png" alt="">
+                            <img src="https://via.placeholder.com/35x35" alt="">
                         </a>
                         <a href="">
-                            <img src="youtube.png" alt="">
+                            <img src="https://via.placeholder.com/35x35" alt="">
                         </a>
                     </div>
                 </div>
