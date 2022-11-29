@@ -2,4 +2,4 @@
     <!-- small-menu -->
     
     <?= $this->fetch("content"); ?>
-   <?= $this->element("footer"); ?>
+    <?= $this->element("footer"); ?>
